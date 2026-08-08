@@ -14,7 +14,7 @@
       OR host it on giphy.com and paste the direct .gif link.
 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/race.gif" width="100%" alt="car race banner"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZpbzAybHl1c3U3enkweDR0eDVoY3AzZGJ6bG01dGtqdXUxY2lwcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/idqBjf5wngkDJMtlIg/giphy.gif" width="100%" alt="car race banner"/>
 </p>
 
 <p align="center">
