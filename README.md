@@ -22,18 +22,18 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=lingamanigandan&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 
 <br><br>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=blueviolet">
+<a href="https://github.com/lingamanigandan">
+<img src="https://img.shields.io/github/followers/lingamanigandan?label=Followers&style=for-the-badge&color=blueviolet">
 </a>
 
 <br><br>
 
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Total%20Stars&style=for-the-badge&color=yellow">
+<a href="https://github.com/lingamanigandan?tab=repositories">
+<img src="https://img.shields.io/github/stars/lingamanigandan?label=Total%20Stars&style=for-the-badge&color=yellow">
 </a>
 
 </td>
@@ -42,9 +42,9 @@
 
 # 👋 I'M LINGAMANIGANDAN!
 
-### 🤖 AI & Data Science Student | 💻 Full Stack Developer
+### 🤖 AI & Data Science Student | 💻 Full Stack Developer | 🧠 AI Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9B59B6&width=600&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Data+Science+Learner;Building+Smart+Digital+Solutions;Always+Learning+Something+New!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9B59B6&width=600&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;AI+Engineer;Machine+Learning+Enthusiast;Data+Science+Learner;Building+Smart+Digital+Solutions;Always+Learning+Something+New!" />
 
 <br>
 
@@ -56,11 +56,11 @@
 
 📊 Exploring Data Science & Analytics
 
-🌐 Building modern web applications
+🌐 Building Modern Web Applications
 
-🚀 Turning ideas into real-world projects
+🚀 Turning Ideas Into Real-World Projects
 
-💡 Always learning, building and improving
+💡 Always Learning, Building and Improving
 
 <br>
 
@@ -77,7 +77,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 
-Hi! I'm **Linga Manigandan**, an enthusiastic **Artificial Intelligence & Data Science student** who enjoys building technology projects.
+Hi! I'm **Lingamanigandan**, an enthusiastic **Artificial Intelligence & Data Science student** who enjoys building technology projects.
 
 I am interested in combining **AI, Data Science and Full Stack Development** to create useful and intelligent applications.
 
@@ -145,10 +145,9 @@ I am interested in combining **AI, Data Science and Full Stack Development** to 
 # 🚀 FEATURED PROJECTS
 
 <table>
-
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🎓 College Management System
 
@@ -170,7 +169,7 @@ A smart college management and analytics system for managing student information
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🛒 Online Store
 
@@ -195,7 +194,7 @@ A modern full-stack e-commerce application.
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🤖 AI Personal Assistant
 
@@ -215,7 +214,7 @@ An intelligent assistant designed to interact with users and automate tasks.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 📈 AI Trading Assistant
 
@@ -236,7 +235,6 @@ A data-driven trading analysis project using market data and machine learning.
 </td>
 
 </tr>
-
 </table>
 
 ---
@@ -245,9 +243,9 @@ A data-driven trading analysis project using market data and machine learning.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="49%">
+<img src="https://github-readme-stats.vercel.app/api?username=lingamanigandan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="49%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" width="49%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lingamanigandan&theme=radical&hide_border=true" width="49%">
 
 </div>
 
@@ -255,7 +253,7 @@ A data-driven trading analysis project using market data and machine learning.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=10" width="45%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingamanigandan&layout=compact&theme=radical&hide_border=true&langs_count=10" width="45%">
 
 </div>
 
@@ -265,7 +263,7 @@ A data-driven trading analysis project using market data and machine learning.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=FFFFFF&line=9B59B6&point=FFFFFF&area=true&hide_border=true" width="95%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lingamanigandan&bg_color=0D1117&color=FFFFFF&line=9B59B6&point=FFFFFF&area=true&hide_border=true" width="95%">
 
 </div>
 
@@ -275,13 +273,15 @@ A data-driven trading analysis project using market data and machine learning.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+<img src="https://raw.githubusercontent.com/lingamanigandan/lingamanigandan/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
 
 </div>
 
 ---
 
 # 🎯 MY GOALS
+
+<div align="center">
 
 ```text
 ╔════════════════════════════════════════════════════╗
