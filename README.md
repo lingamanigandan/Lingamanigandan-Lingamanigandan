@@ -273,7 +273,23 @@ A data-driven trading analysis project using market data and machine learning.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/lingamanigandan/lingamanigandan/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/lingamanigandan/lingamanigandan/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/lingamanigandan/lingamanigandan/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/lingamanigandan/lingamanigandan/output/github-contribution-grid-snake.svg"
+  />
+
+</picture>
 
 </div>
 
