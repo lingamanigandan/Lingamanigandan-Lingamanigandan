@@ -1,105 +1,301 @@
-<!-- ============================================================
-  GITHUB PROFILE README — CAMO / MILITARY THEME
-  Replace YOUR_USERNAME, YOUR_NAME, and links below with your own.
-  Repo must be named exactly like your username:
-  github.com/YOUR_USERNAME/YOUR_USERNAME
-============================================================ -->
+<!-- ===================================================== -->
+<!--                 LINGAMANIGANDAN                       -->
+<!--              GITHUB PROFILE README                    -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<!-- Camo banner (top) -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:4B5320,50:6B8E23,100:2F3B1D&height=200&section=header&text=YOUR%20NAME&fontSize=45&fontColor=E8E4C9&fontAlignY=40&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%" />
-
-<br/>
-
-<!-- Animated typing intro -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6B8E23&center=true&vCenter=true&width=600&lines=Mission%3A+Write+Clean+Code;Deploy.+Debug.+Repeat.;Always+On+Recon+for+New+Tech." alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<!-- Social badges — olive/khaki tones -->
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-4B5320?style=for-the-badge&logo=linkedin&logoColor=E8E4C9" /></a>
-<a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-556B2F?style=for-the-badge&logo=twitter&logoColor=E8E4C9" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-3B4226?style=for-the-badge&logo=gmail&logoColor=E8E4C9" /></a>
-<a href="https://YOUR_PORTFOLIO_SITE.com"><img src="https://img.shields.io/badge/Portfolio-2F3B1D?style=for-the-badge&logo=vercel&logoColor=E8E4C9" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:800080,100:FF00FF&height=220&section=header&text=HELLO%20WORLD&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=58&descSize=18"/>
 
 </div>
 
-<br/>
+<br>
 
-<!-- ================= ABOUT ME ================= -->
-### 🪖 Mission Briefing
+<!-- ================= PROFILE ================= -->
 
-- 🎯 Currently deployed on **[Project Name](https://github.com/YOUR_USERNAME/project)**
-- 🌿 Field-training in **Rust, Kubernetes, System Design**
-- 🤝 Open to joint ops (collaboration) on **open-source dev tools**
-- 📡 Comms open for **JavaScript, Python, React, Backend Systems**
-- ☕ Fuel of choice: **coffee, black, no surrender**
+<table>
+<tr>
 
-<br/>
+<td width="35%" align="center">
 
-<!-- ================= TECH STACK ================= -->
-### 🛠️ Field Equipment (Tech Stack)
+<img src="./profile.jpg" width="230" alt="Linga Manigandan Profile Photo">
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+
+<br><br>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=blueviolet">
+</a>
+
+<br><br>
+
+<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Total%20Stars&style=for-the-badge&color=yellow">
+</a>
+
+</td>
+
+<td width="65%">
+
+# 👋 I'M LINGAMANIGANDAN!
+
+### 🤖 AI & Data Science Student | 💻 Full Stack Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9B59B6&width=600&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Data+Science+Learner;Building+Smart+Digital+Solutions;Always+Learning+Something+New!" />
+
+<br>
+
+🎓 B.Tech Artificial Intelligence & Data Science Student
+
+💻 Passionate about Full Stack Development
+
+🤖 Interested in Artificial Intelligence & Machine Learning
+
+📊 Exploring Data Science & Analytics
+
+🌐 Building modern web applications
+
+🚀 Turning ideas into real-world projects
+
+💡 Always learning, building and improving
+
+<br>
+
+> **"Learn. Build. Improve. Repeat."** 🚀
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🧑‍💻 ABOUT ME
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+
+Hi! I'm **Linga Manigandan**, an enthusiastic **Artificial Intelligence & Data Science student** who enjoys building technology projects.
+
+I am interested in combining **AI, Data Science and Full Stack Development** to create useful and intelligent applications.
+
+### 🔥 What I Do
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📊 Data Science
+- 💻 Full Stack Development
+- 🌐 Web Application Development
+- 🗄️ Database Management
+- 📈 Data Analytics
+- ☁️ Cloud & Modern Technologies
+
+### 🌱 Currently Learning
+
+- Advanced Python
+- Machine Learning
+- Deep Learning
+- React.js
+- Node.js
+- Data Analytics
+- AI Application Development
+
+<br clear="right"/>
+
+---
+
+# ⚡ MY TECH STACK
+
+## 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,cpp,html,css,tailwind,nextjs,express,mongodb,mysql,postgres,docker,kubernetes,git,github,linux,aws,gcp,figma&perline=8" />
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
+
 </p>
 
-<br/>
+## 🌐 Full Stack Development
 
-<!-- ================= GITHUB STATS (camo/forest theme) ================= -->
-### 📊 Recon Stats
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql" />
+
+</p>
+
+## 🤖 AI & Data Science
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
+
+</p>
+
+## 🛠️ Tools & Technologies
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman" />
+
+</p>
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🎓 College Management System
+
+A smart college management and analytics system for managing student information.
+
+### Features
+
+- 🔎 Student Search
+- 👨‍🎓 Student Details
+- 📊 Attendance
+- 🏫 Department Management
+- 🚌 Bus Details
+- 🏠 Hostel Information
+- 📈 Data Analytics
+
+**Technologies**
+
+`Python` `Pandas` `Data Analytics`
+
+</td>
+
+<td width="50%">
+
+## 🛒 Online Store
+
+A modern full-stack e-commerce application.
+
+### Features
+
+- 🔐 User Authentication
+- 🛍️ Product Management
+- 🛒 Shopping Cart
+- 👤 User Profiles
+- 💳 Order Management
+- 🗄️ Database Integration
+
+**Technologies**
+
+`React` `Node.js` `Express` `MongoDB`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🤖 AI Personal Assistant
+
+An intelligent assistant designed to interact with users and automate tasks.
+
+### Features
+
+- 💬 AI Chat
+- 🎤 Voice Interaction
+- 🧠 Intelligent Responses
+- 🔌 API Integration
+- ⚙️ Task Automation
+
+**Technologies**
+
+`Python` `AI` `APIs`
+
+</td>
+
+<td width="50%">
+
+## 📈 AI Trading Assistant
+
+A data-driven trading analysis project using market data and machine learning.
+
+### Features
+
+- 📊 Market Data
+- 📈 Technical Indicators
+- 🧠 ML Prediction
+- 🔔 Trading Alerts
+- 📉 BUY / SELL / HOLD Analysis
+
+**Technologies**
+
+`Python` `Pandas` `Machine Learning` `APIs`
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📊 GITHUB STATISTICS
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=algolia&hide_border=true&bg_color=2F3B1D&title_color=E8E4C9&text_color=C4C4A8&icon_color=8FA35E&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=algolia&hide_border=true&bg_color=2F3B1D&title_color=E8E4C9&text_color=C4C4A8" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="49%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" width="49%">
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=2F3B1D&stroke=6B8E23&ring=8FA35E&fire=E8E4C9&currStreakLabel=E8E4C9&sideLabels=C4C4A8&dates=C4C4A8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=2F3B1D&color=E8E4C9&line=8FA35E&point=E8E4C9&area=true&area_color=6B8E23&hide_border=true" width="100%" />
-</div>
-
-<br/>
-
-<!-- ================= TROPHIES ================= -->
-### 🏆 Field Medals
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=7&bg_color=2F3B1D&title_color=E8E4C9" />
-</div>
-
-<br/>
-
-<!-- ================= FEATURED PROJECTS ================= -->
-### 🚀 Active Operations (Featured Projects)
+<br>
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/project-one">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-one&theme=algolia&hide_border=true&bg_color=2F3B1D&title_color=E8E4C9&text_color=C4C4A8&icon_color=8FA35E" />
-</a>
-<a href="https://github.com/YOUR_USERNAME/project-two">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-two&theme=algolia&hide_border=true&bg_color=2F3B1D&title_color=E8E4C9&text_color=C4C4A8&icon_color=8FA35E" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=10" width="45%">
 
 </div>
 
-<br/>
+---
 
-<!-- ================= VISITOR COUNTER ================= -->
+# 📈 GITHUB ACTIVITY
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=4B5320&label=RECON+VISITS" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=FFFFFF&line=9B59B6&point=FFFFFF&area=true&hide_border=true" width="95%">
+
 </div>
 
-<br/>
+---
 
-<!-- ================= FOOTER ================= -->
+# 🐍 CONTRIBUTION SNAKE
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:2F3B1D,50:6B8E23,100:4B5320&height=100&section=footer" width="100%" />
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+
 </div>
+
+---
+
+# 🎯 MY GOALS
+
+```text
+╔════════════════════════════════════════════════════╗
+║                                                    ║
+║  🤖 Build AI-powered applications                  ║
+║                                                    ║
+║  💻 Become a strong Full Stack Developer           ║
+║                                                    ║
+║  🧠 Master Machine Learning & Deep Learning        ║
+║                                                    ║
+║  📊 Build real-world Data Science projects         ║
+║                                                    ║
+║  🌐 Create modern web applications                 ║
+║                                                    ║
+║  🚀 Contribute to Open Source                      ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
